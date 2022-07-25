@@ -3,22 +3,4 @@
    uuid = "508BCE42-A742-4EBE-BEEF-302419169640"
    type = "1"
    version = "2.0">
-   <Breakpoints>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "9C04BB43-3EF6-4F88-9E4C-30088FE57096"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "NetflixClone/Managers/DataPersistenceManager.swift"
-            startingColumnNumber = "32"
-            endingColumnNumber = "32"
-            startingLineNumber = "34"
-            endingLineNumber = "34"
-            landmarkName = "downloadTitleWith(model:completion:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-   </Breakpoints>
 </Bucket>
